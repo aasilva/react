@@ -1,0 +1,26 @@
+/* Base Application Styles */
+body {
+
+}
+
+.app {
+  margin: 20px auto;
+  padding: 15px 0;
+}
+
+table input {
+  max-width: 45px;
+}
+
+table label {
+  margin-right: 15px;
+}
+
+table th:last-child {
+  width: 400px;
+}
+
+table td,
+table th {
+  padding: 8px;
+}
